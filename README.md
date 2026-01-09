@@ -1,8 +1,9 @@
 # 🌐 Networking Expert Chatbot
 
-This project is a Networking Expert Chatbot developed using Python, Streamlit, Gemini API, and custom CSS.
+This project is a Networking Expert Chatbot developed using Python, Streamlit,
+Gemini API, and custom CSS.
 
-##  Project Contributors
+## Project Contributors
 - Pradeep
 - Raj
 
@@ -12,12 +13,6 @@ This project is a Networking Expert Chatbot developed using Python, Streamlit, G
 - Gemini API
 - Custom CSS
 
-##  Features
-- ChatGPT-like UI
-- Networking-specific answers
-- Responsive design
-- Fixed chat input
-
-## ▶ How to Run
-```bash
-streamlit run app.py
+## Description
+This chatbot answers only computer networking related questions such as
+OSI Model, TCP/IP, DNS, Subnetting, Routing, and CCNA interview concepts.
